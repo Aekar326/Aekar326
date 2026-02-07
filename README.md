@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->Hey there !
   I am Aaron !
+  
   Currently Studying in Vellore Institute Of Technology,
+  
   Pursuing Computer Science Engineering ,
+  
   Looking for help in C++.
+  
   currently learning and  working on C,
+  
   You can reach me via my linkedin Profile below!
   
