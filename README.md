@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   
   Pursuing Computer Science Engineering ,
   
-  Looking for help in C++.
+  Looking for help in Java.
   
-  currently learning and  working on C,
+  currently learning and  working on Js,
   
   You can reach me via my linkedin Profile below!
   
